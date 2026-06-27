@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Sabonete de Lavanda & Mel",
+      "description": "Com flores secas de lavanda francesa e mel silvestre de florada nativa. Nutre, suaviza e relaxa profundamente, perfeito para um banho calmo no final de dia.",
+      "category": "Lavanda",
+      "price": 18,
+      "stock": 12,
+      "image": "/src/assets/images/lavender_soap_1779567705170.png",
+      "aroma": "Floral & Adocicado",
+      "weight": "110g",
+      "featured": true,
+      "active": true,
+      "promotion": false
+    },
+    {
+      "id": "p2",
+      "name": "Sabonete de Alecrim & Argila Verde",
+      "description": "Ação tonificante com folhas trituradas de alecrim e argila verde mineral. Proporciona uma esfoliação extremamente leve, purificante e refrescante.",
+      "category": "Ervas",
+      "price": 16,
+      "stock": 4,
+      "image": "/src/assets/images/herbal_soap_1779567721065.png",
+      "aroma": "Balsâmico & Herbal",
+      "weight": "100g",
+      "featured": true,
+      "active": true,
+      "promotion": false
+    },
+    {
+      "id": "p3",
+      "name": "Sabonete Capim-Limão & Calêndula",
+      "description": "Calmante e regenerador para a pele. Elaborado especialmente para peles delicadas ou secas, com o delicioso frescor cítrico e reconfortante do capim-limão.",
+      "category": "Hidratantes",
+      "price": 16,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1607006342411-91361716301a?q=80&w=600",
+      "aroma": "Cítrico & Herbal",
+      "weight": "105g",
+      "featured": false,
+      "active": true,
+      "promotion": true,
+      "salePrice": 14
+    },
+    {
+      "id": "p4",
+      "name": "Sabonete Hidratante de Aveia & Karité",
+      "description": "Nutrição profunda. Rico em manteiga de karité pura da melhor procedência e farelo fino de aveia orgânica para uma esfoliação terna de peles muito secas.",
+      "category": "Hidratantes",
+      "price": 19,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1546554137-f86b9593a222?q=80&w=600",
+      "aroma": "Suave, Quente & Amendoado",
+      "weight": "115g",
+      "featured": true,
+      "active": true,
+      "promotion": false
+    },
+    {
+      "id": "p5",
+      "name": "Kit Essencial Doce Aroma",
+      "description": "Uma embalagem artesanal premium em papel kraft reciclado biodegradável contendo nossos três maiores sucessos: Lavanda, Alecrim e Aveia.",
+      "category": "Kits",
+      "price": 48,
+      "stock": 6,
+      "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=600",
+      "aroma": "Misto & Envolvente",
+      "weight": "320g",
+      "featured": true,
+      "active": true,
+      "promotion": false
+    },
+    {
+      "id": "p6",
+      "name": "Kit Presente Lavanda Imperial",
+      "description": "O presente supremo. Contém um sabonete de Lavanda & Mel de 110g, um sachê perfumado de lavanda natural para guarda-roupas, e uma saboneteira exclusiva em madeira rústica tratada.",
+      "category": "Kits",
+      "price": 65,
+      "stock": 11,
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=600",
+      "aroma": "Lavanda Intesa",
+      "weight": "450g",
+      "featured": false,
+      "active": true,
+      "promotion": false
+    }
+  ],
+  "orders": [],
+  "adminPasswordHash": "$2b$10$oIBVUFItpSSuakfei9kqM.JrCN73IaImMqvHz7DVl03TDR8NH/gx6",
+  "categories": [
+    "Lavanda",
+    "Ervas",
+    "Hidratantes",
+    "Kits"
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Camila Rodrigues",
+      "city": "Uberlândia - MG",
+      "stars": 5,
+      "quote": "O atendimento de vocês é excelente! Fiquei extremamente satisfeita com a atenção, rapidez e carinho no WhatsApp. Além disso, os sabonetes artesanais são cheirosos demais, de altíssima qualidade e deixam a pele muito macia. Recomendo com toda certeza!",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=200",
+      "approved": true
+    }
+  ]
+}

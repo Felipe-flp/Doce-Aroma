@@ -1,0 +1,6 @@
+{
+  "name": "Doce Aroma",
+  "description": "Sabonetes artesanais premium produzidos com óleos essenciais e muito carinho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
